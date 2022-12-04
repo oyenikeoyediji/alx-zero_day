@@ -1,1 +1,1 @@
-My edited first readme
+Open my first readme
